@@ -27,7 +27,7 @@ async function displayActivity() {
     return `<li><img src="${favIconUrl}" alt="${key}">${key}: ${formatTime(time)}</li>`
   })
 
-  document.querySelector('#sessions').innerHTML = list.toString().replace(/,/g, "")
+  document.querySelector('#session').innerHTML = list.toString().replace(/,/g, "")
 }
 
 // Launch session displays
