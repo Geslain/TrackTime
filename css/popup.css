@@ -1,0 +1,18 @@
+body {
+    width: 300px;
+}
+
+#sessions {
+    list-style: none;
+}
+
+#sessions li {
+    display: flex;
+    align-items: center;
+}
+
+#sessions img {
+    width: 18px;
+    height: 18px;
+    padding: 5px;
+}
