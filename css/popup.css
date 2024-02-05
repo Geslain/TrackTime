@@ -2,16 +2,16 @@ body {
     width: 300px;
 }
 
-#sessions {
+#session {
     list-style: none;
 }
 
-#sessions li {
+#session li {
     display: flex;
     align-items: center;
 }
 
-#sessions img {
+#session img {
     width: 18px;
     height: 18px;
     padding: 5px;
