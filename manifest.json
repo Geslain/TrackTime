@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Time tracking Extensions",
+  "name": "Time tracking",
   "description": "Chrome extension for tracking web site usage time and export it automatically to Google Sheet file",
   "version": "1.0",
   "minimum_chrome_version": "93",
